@@ -1,3 +1,9 @@
+Hello Dude🙋🏻‍♀️Welcome to my Repo hi
+📢Introduce myself
+🙂I'm Fayas
+🚩I'm a beginner in this field
+📍From Chungam,Alappuzha,Kerala,🇮🇳
+🏫Students
 
 <div align="center">
   <img border-radius: 15px src="unnamed.gif" width="200" height="200"/>
@@ -66,7 +72,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://https://chat.whatsapp.com/LxMvZNrGuicCUfVcPB2guc)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FAYAS-SERV2&repo=Kellymowl_v2&theme=nightowl)](https://github.com/FAYAS-SERV2/Kellymowl_v2)
